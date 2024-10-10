@@ -18,6 +18,8 @@ sass:
 nav:
  - name: "About"
    link: "/researcher/"
+ - name: "DARC"
+   link: "darc"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
