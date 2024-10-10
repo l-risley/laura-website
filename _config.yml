@@ -18,10 +18,16 @@ sass:
 nav:
  - name: "About"
    link: "/researcher/"
+ - name: "Research"
+   link: "research"
+ - name: "Academic Experience"
+   link: "academic"
+ - name: "Blog"
+   link: "blog"
  - name: "DARC"
    link: "darc"
- - name: "Resume"
-   link: "resume.pdf"
+ - name: "CV"
+   link: "CV.pdf"
  - name: "Contact"
    link: "contact"
 
