@@ -1,6 +1,6 @@
 # Blog
 
-Here are various blog posts I have written over the course of my PhD.
+*Here are various blog posts I have written over the course of my PhD.*
 
 ---
 
@@ -15,3 +15,7 @@ Met Ball 2023 - [Social Metwork](https://socialmetwork.blog/2023/05/19/met-ball-
 ---
 
 NCEO Forum: Machine Learning and AI - [Social Metwork](https://socialmetwork.blog/2022/04/22/nceo-forum-machine-learning-and-ai/) April 2022
+
+---
+
+National Earth Observation Conference 2024 - [DARC blog](https://research.reading.ac.uk/met-darc/2024/10/16/national-earth-observation-conference-2024/). October 2024
