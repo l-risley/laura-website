@@ -18,4 +18,4 @@ NCEO Forum: Machine Learning and AI - [Social Metwork](https://socialmetwork.blo
 
 ---
 
-National Earth Observation Conference 2024 - [DARC blog](https://research.reading.ac.uk/met-darc/2024/10/16/national-earth-observation-conference-2024/). October 2024
+National Earth Observation Conference 2024 - [DARC blog](https://research.reading.ac.uk/met-darc/2024/10/16/national-earth-observation-conference-2024/) October 2024
