@@ -4,11 +4,9 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="pic.jpg">
+<img class="profile-picture" src="me.jpg">
 
 Hi! I am a PhD student in the Department of Mathematics and Statistics at the University of Reading.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
 ## Research Interest
 
@@ -16,8 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+Risley, L., Lawless, A.S., Martin, M. and Weaver, A (2025), ‘Implications of alternative velocity variables in variational ocean data assimilation’ Quart. J. Royal Met. Soc (in preparation) [Submission December 2024]
 
 ## Typography
 
