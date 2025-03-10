@@ -9,4 +9,7 @@ Mathematics (BI1MA17) | Department of Biological Sciences | Demonstrating and le
 Dare to Discover DA | DARC/NCEO MOOC | Facilitating
 
 ## Additonal experience
+* Invigilator for Department of Meteorology, 2023-2024
+* Organiser of the Meteorology Ball, May 2023
+* Organiser of the Meteorology BBQ, July 2022
 
