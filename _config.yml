@@ -17,9 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
- - name: "Research"
-   link: "research"
+   link: "/laura-website/"
  - name: "Academic Experience"
    link: "academic"
  - name: "Blog"
