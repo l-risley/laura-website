@@ -32,7 +32,7 @@ UKEO Conference (2024) | National STEM Centre, York | Oral presentation ‘Impli
 NPOP DA Meeting (2024) | Met Office UK | Oral presentation ‘On the choice of velocity variables for variational ocean data assimilation’ 
 Adjoint Workshop (2024) | Lake George, NY | Oral presentation ‘On the choice of velocity variables for variational ocean data assimilation’
 ISDA (2023) | Bolgna, Italy | Poster presentation ‘On the choice of velocity variables for variational ocean data assimilation’ 
-NCEO Conference (2023) | University of Leeds | Poster presentation ‘On the choice of velocity variables for variational ocean data assimilation’  -  **Best poster award **
+NCEO Conference (2023) | University of Leeds | Poster presentation ‘On the choice of velocity variables for variational ocean data assimilation’  -  **Best poster award**
 Joint DTP Conference (2023) | Univeristy of Surrey| Oral presentation ‘Assimilation of future ocean-current measurements from satellites’ 
 ESA ATSCV Workshop (2023) | Mercator Ocean Iternational, Toulouse | Oral presentation ‘On the choice of velocity variables for variational ocean data assimilation’
 Joint DTP Conference (2023) | Univeristy of Surrey | Organiser
