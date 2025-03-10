@@ -4,6 +4,10 @@
 
 ---
 
+Preparing for the assimilation of future ocean current measurements - [Social Metwork]([https://research.reading.ac.uk/met-darc/2024/10/16/national-earth-observation-conference-2024/](https://socialmetwork.blog/2024/11/29/preparing-for-the-assimilation-of-future-ocean-current-measurements/)) November 2024
+
+---
+
 National Earth Observation Conference 2024 - [DARC blog](https://research.reading.ac.uk/met-darc/2024/10/16/national-earth-observation-conference-2024/) October 2024
 
 ---
